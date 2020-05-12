@@ -1,0 +1,2 @@
+# PatakyWebMinta
+ Pataky web minta
